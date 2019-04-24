@@ -7,4 +7,7 @@ class Videogame(Base):
   id = Column(Integer, primary_key = True)
   name = Column(String)
   
-  characters = relationship('character')
+  characters = relationship('Character')
+
+  def __repr__(self):
+    return "<Videogame(name='%s')>" %  (self.name)
