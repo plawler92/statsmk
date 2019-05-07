@@ -1,3 +1,4 @@
+'''
 from db import Session
 from player import Player
 from character import Character
@@ -14,5 +15,13 @@ def get_all_characters(session):
 
 def insert_character(session, character):
     session.add(character)
+'''
+
+from staginggame import StagingGame as G
+
+def insert_games(session, games):
+  for game in games:
+    session.add(game)
+  session.commit()
 
 
