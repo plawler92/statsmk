@@ -21,3 +21,7 @@ def test(i):
   #print(i)
 
 #dh.insert_games(d.session, games)
+#def insert_games(session, games):
+#  for game in games:
+#    session.add(game)
+#  session.commit()
