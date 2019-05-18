@@ -18,6 +18,7 @@ def insert_character(session, character):
 '''
 
 from staginggame import StagingGame as G
+from game import Game as Game
 
 def insert_games(session, games):
   for game in games:
@@ -25,3 +26,8 @@ def insert_games(session, games):
   session.commit()
 
 
+def get_games(session):
+  return session.query(Game).all()
+
+def get_games_by_eventid(session, eventid):
+  return session.query(Game).filter(Game.eventid == str(eventid)).all()

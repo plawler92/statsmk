@@ -5,6 +5,7 @@ from event import Event
 #step 1, find out how many sets are in an event
 #eventId = 347685
 eventSlug = "tournament/kombat-cup-road-to-combo-breaker/event/kombat-cup"
+eventSlug2 = "tournament/summit-of-time/events/mortal-kombat-11"
 games = []
 notadded = []
 
@@ -134,8 +135,8 @@ def get_games(eventSlug, page, perPage):
 				setgames.append(g)
 
 			games.extend(setgames)
-		else:
-			notadded.add(s)
+		#else:
+			#notadded.add(s)
 	return games
 
 def write_to_file(eventSlug, page, perPage):
