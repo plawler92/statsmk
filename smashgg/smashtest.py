@@ -1,6 +1,4 @@
 from smashggAPI import client
-from staginggame import StagingGame as Game
-from event import Event
 
 #step 1, find out how many sets are in an event
 #eventId = 347685
@@ -72,6 +70,13 @@ def get_page_of_sets(eventSlug, page, perPage):
 		              name
 		            }
 		            placement
+								stats{
+									score{
+										label
+										value
+										displayValue
+									}
+								}
 		          }
 		        }
 		      } 
@@ -86,6 +91,9 @@ def get_page_of_sets(eventSlug, page, perPage):
 	#return results['data']['event']['sets']['nodes']
 	return results['data']['event']
 
+
+
+#???
 def get_games(eventSlug, page, perPage):
 
 

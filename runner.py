@@ -69,3 +69,8 @@ def plot_winlossrates(stats, name):
   fig = go.Figure(data=data, layout=layout)
   py.plot(fig, filename = name)
   
+#dh.insert_games(d.session, games)
+#def insert_games(session, games):
+#  for game in games:
+#    session.add(game)
+#  session.commit()

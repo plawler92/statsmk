@@ -1,1 +1,1839 @@
-{"id": 347685, "slug": "tournament/kombat-cup-road-to-combo-breaker/event/kombat-cup", "name": "Kombat Cup", "startAt": 1556474400, "sets": {"pageInfo": {"total": 759}, "nodes": [{"id": 20104508, "games": [{"id": 1826355, "setId": 20104508, "winnerId": 3001692, "selections": [{"id": "2374951", "selectionType": "CHARACTER", "selectionValue": 1467, "entrantId": 3018209}, {"id": "2374952", "selectionType": "CHARACTER", "selectionValue": 1480, "entrantId": 3001692}]}, {"id": 1826363, "setId": 20104508, "winnerId": 3001692, "selections": [{"id": "2374967", "selectionType": "CHARACTER", "selectionValue": 1480, "entrantId": 3001692}, {"id": "2374968", "selectionType": "CHARACTER", "selectionValue": 1467, "entrantId": 3018209}]}], "slots": [{"standing": {"entrant": {"id": 3001692, "name": "Tactaziumv"}, "placement": 1}}, {"standing": {"entrant": {"id": 3018209, "name": "Hyteknology"}, "placement": 2}}]}, {"id": 20103170, "games": [{"id": 1826488, "setId": 20103170, "winnerId": 3012856, "selections": [{"id": "2375136", "selectionType": "CHARACTER", "selectionValue": 1468, "entrantId": 3005785}, {"id": "2375137", "selectionType": "CHARACTER", "selectionValue": 1469, "entrantId": 3012856}]}, {"id": 1826494, "setId": 20103170, "winnerId": 3012856, "selections": [{"id": "2375146", "selectionType": "CHARACTER", "selectionValue": 1469, "entrantId": 3012856}, {"id": "2375147", "selectionType": "CHARACTER", "selectionValue": 1468, "entrantId": 3005785}]}], "slots": [{"standing": {"entrant": {"id": 3005785, "name": "Kickbykick"}, "placement": 2}}, {"standing": {"entrant": {"id": 3012856, "name": "Aawtyy-"}, "placement": 1}}]}, {"id": 20104127, "games": [{"id": 1826457, "setId": 20104127, "winnerId": 3014320, "selections": [{"id": "2375087", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 2998028}, {"id": "2375088", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3014320}]}, {"id": 1826472, "setId": 20104127, "winnerId": 3014320, "selections": [{"id": "2375111", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3014320}, {"id": "2375112", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 2998028}]}], "slots": [{"standing": {"entrant": {"id": 3014320, "name": "DF | Grr"}, "placement": 1}}, {"standing": {"entrant": {"id": 2998028, "name": "LeMarrine"}, "placement": 2}}]}, {"id": 20104320, "games": [{"id": 1826459, "setId": 20104320, "winnerId": 3020629, "selections": [{"id": "2375091", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3019545}, {"id": "2375092", "selectionType": "CHARACTER", "selectionValue": 1457, "entrantId": 3020629}]}, {"id": 1826470, "setId": 20104320, "winnerId": 3020629, "selections": [{"id": "2375107", "selectionType": "CHARACTER", "selectionValue": 1477, "entrantId": 3020629}, {"id": "2375108", "selectionType": "CHARACTER", "selectionValue": 1457, "entrantId": 3020629}]}], "slots": [{"standing": {"entrant": {"id": 3019545, "name": "UPR | Jolt"}, "placement": 2}}, {"standing": {"entrant": {"id": 3020629, "name": "Kinetic_Predator"}, "placement": 1}}]}, {"id": 20103363, "games": [{"id": 1826640, "setId": 20103363, "winnerId": 3007349, "selections": [{"id": "2375355", "selectionType": "CHARACTER", "selectionValue": 1469, "entrantId": 3007349}, {"id": "2375356", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3007850}]}, {"id": 1826644, "setId": 20103363, "winnerId": 3007349, "selections": [{"id": "2375363", "selectionType": "CHARACTER", "selectionValue": 1469, "entrantId": 3007349}, {"id": "2375364", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3007850}]}], "slots": [{"standing": {"entrant": {"id": 3007850, "name": "Royalty532"}, "placement": 2}}, {"standing": {"entrant": {"id": 3007349, "name": "SiK | Cam is black"}, "placement": 1}}]}, {"id": 20103747, "games": [{"id": 1826583, "setId": 20103747, "winnerId": 3019604, "selections": [{"id": "2375274", "selectionType": "CHARACTER", "selectionValue": 1463, "entrantId": 2997941}, {"id": "2375275", "selectionType": "CHARACTER", "selectionValue": 1463, "entrantId": 3019604}]}, {"id": 1826606, "setId": 20103747, "winnerId": 3019604, "selections": [{"id": "2375308", "selectionType": "CHARACTER", "selectionValue": 1463, "entrantId": 3019604}, {"id": "2375309", "selectionType": "CHARACTER", "selectionValue": 1463, "entrantId": 2997941}]}], "slots": [{"standing": {"entrant": {"id": 3019604, "name": "kiLLtron"}, "placement": 1}}, {"standing": {"entrant": {"id": 2997941, "name": "moulu"}, "placement": 2}}]}, {"id": 20103172, "games": [{"id": 1826641, "setId": 20103172, "winnerId": 3012856, "selections": [{"id": "2375357", "selectionType": "CHARACTER", "selectionValue": 1469, "entrantId": 3012856}, {"id": "2375358", "selectionType": "CHARACTER", "selectionValue": 1457, "entrantId": 3001938}]}, {"id": 1826658, "setId": 20103172, "winnerId": 3012856, "selections": [{"id": "2375385", "selectionType": "CHARACTER", "selectionValue": 1469, "entrantId": 3012856}, {"id": "2375386", "selectionType": "CHARACTER", "selectionValue": 1457, "entrantId": 3001938}]}], "slots": [{"standing": {"entrant": {"id": 3001938, "name": "Fierce"}, "placement": 2}}, {"standing": {"entrant": {"id": 3012856, "name": "Aawtyy-"}, "placement": 1}}]}, {"id": 20103746, "games": null, "slots": [{"standing": {"entrant": {"id": 3020013, "name": "bc | HoneyBee"}, "placement": 2}}, {"standing": {"entrant": {"id": 3016612, "name": "PG | Hayatei"}, "placement": 1}}]}, {"id": 20104128, "games": [{"id": 1827097, "setId": 20104128, "winnerId": 3000307, "selections": [{"id": "2376030", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3012253}, {"id": "2376031", "selectionType": "CHARACTER", "selectionValue": 1472, "entrantId": 3000307}]}, {"id": 1827104, "setId": 20104128, "winnerId": 3000307, "selections": [{"id": "2376038", "selectionType": "CHARACTER", "selectionValue": 1472, "entrantId": 3000307}, {"id": "2376039", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3012253}]}], "slots": [{"standing": {"entrant": {"id": 3000307, "name": "ChernyyVolkFGC"}, "placement": 1}}, {"standing": {"entrant": {"id": 3012253, "name": "CrimsonWolf"}, "placement": 2}}]}, {"id": 20104129, "games": [{"id": 1826577, "setId": 20104129, "winnerId": 3014320, "selections": [{"id": "2375268", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3014320}, {"id": "2375269", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 3019521}]}, {"id": 1826585, "setId": 20104129, "winnerId": 3014320, "selections": [{"id": "2375276", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3014320}, {"id": "2375277", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 3019521}]}], "slots": [{"standing": {"entrant": {"id": 3019521, "name": "hendakid"}, "placement": 2}}, {"standing": {"entrant": {"id": 3014320, "name": "DF | Grr"}, "placement": 1}}]}, {"id": 20104511, "games": [{"id": 1826378, "setId": 20104511, "winnerId": 3018740, "selections": [{"id": "2374985", "selectionType": "CHARACTER", "selectionValue": 1477, "entrantId": 3018740}, {"id": "2374986", "selectionType": "CHARACTER", "selectionValue": 1472, "entrantId": 3014542}]}, {"id": 1826381, "setId": 20104511, "winnerId": 3018740, "selections": [{"id": "2374991", "selectionType": "CHARACTER", "selectionValue": 1477, "entrantId": 3018740}, {"id": "2374992", "selectionType": "CHARACTER", "selectionValue": 1472, "entrantId": 3014542}]}], "slots": [{"standing": {"entrant": {"id": 3014542, "name": "Reyes_fam"}, "placement": 2}}, {"standing": {"entrant": {"id": 3018740, "name": "Stabs"}, "placement": 1}}]}, {"id": 20103171, "games": null, "slots": [{"standing": {"entrant": {"id": 3015213, "name": "Brownfelow"}, "placement": 2}}, {"standing": {"entrant": {"id": 3019252, "name": "SiK__Killadilla"}, "placement": 1}}]}, {"id": 20104319, "games": [{"id": 1826562, "setId": 20104319, "winnerId": 3009094, "selections": [{"id": "2375252", "selectionType": "CHARACTER", "selectionValue": 1470, "entrantId": 2998135}, {"id": "2375253", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3009094}]}, {"id": 1826593, "setId": 20104319, "winnerId": 2998135, "selections": [{"id": "2375288", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3009094}, {"id": "2375289", "selectionType": "CHARACTER", "selectionValue": 1470, "entrantId": 2998135}]}, {"id": 1826596, "setId": 20104319, "winnerId": 2998135, "selections": [{"id": "2375294", "selectionType": "CHARACTER", "selectionValue": 1470, "entrantId": 2998135}, {"id": "2375295", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3009094}]}], "slots": [{"standing": {"entrant": {"id": 2998135, "name": "ParsaHp"}, "placement": 1}}, {"standing": {"entrant": {"id": 3009094, "name": "BSL | Four Loko"}, "placement": 2}}]}, {"id": 20103364, "games": null, "slots": [{"standing": {"entrant": {"id": 3018694, "name": "UPR | Nova"}, "placement": 2}}, {"standing": {"entrant": {"id": 3013538, "name": "Station"}, "placement": 1}}]}, {"id": 20103938, "games": [{"id": 1826911, "setId": 20103938, "winnerId": 3020208, "selections": [{"id": "2375741", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 3019594}, {"id": "2375742", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3020208}]}, {"id": 1826914, "setId": 20103938, "winnerId": 3019594, "selections": [{"id": "2375747", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3020208}, {"id": "2375748", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 3019594}]}, {"id": 1826917, "setId": 20103938, "winnerId": 3020208, "selections": [{"id": "2375753", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 3019594}, {"id": "2375754", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3020208}]}], "slots": [{"standing": {"entrant": {"id": 3020208, "name": "LaLLorona1001"}, "placement": 1}}, {"standing": {"entrant": {"id": 3019594, "name": "Bdon"}, "placement": 2}}]}, {"id": 20104510, "games": [{"id": 1826509, "setId": 20104510, "winnerId": 2997807, "selections": [{"id": "2375170", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 2997807}, {"id": "2375171", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3001692}]}, {"id": 1826559, "setId": 20104510, "winnerId": 2997807, "selections": [{"id": "2375246", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 2997807}, {"id": "2375247", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3001692}]}], "slots": [{"standing": {"entrant": {"id": 2997807, "name": "KILLSTREAK"}, "placement": 1}}, {"standing": {"entrant": {"id": 3001692, "name": "Tactaziumv"}, "placement": 2}}]}, {"id": 20103555, "games": [{"id": 1826757, "setId": 20103555, "winnerId": 2997837, "selections": [{"id": "2375511", "selectionType": "CHARACTER", "selectionValue": 1458, "entrantId": 2997837}, {"id": "2375512", "selectionType": "CHARACTER", "selectionValue": 1470, "entrantId": 3015946}]}, {"id": 1826761, "setId": 20103555, "winnerId": 2997837, "selections": [{"id": "2375515", "selectionType": "CHARACTER", "selectionValue": 1458, "entrantId": 2997837}, {"id": "2375516", "selectionType": "CHARACTER", "selectionValue": 1470, "entrantId": 3015946}]}], "slots": [{"standing": {"entrant": {"id": 2997837, "name": "Jer"}, "placement": 1}}, {"standing": {"entrant": {"id": 3015946, "name": "Crescent | DevilTrigger"}, "placement": 2}}]}, {"id": 20103556, "games": [{"id": 1826655, "setId": 20103556, "winnerId": 3012593, "selections": [{"id": "2375381", "selectionType": "CHARACTER", "selectionValue": 1468, "entrantId": 3012593}, {"id": "2375382", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3019899}]}, {"id": 1826665, "setId": 20103556, "winnerId": 3012593, "selections": [{"id": "2375399", "selectionType": "CHARACTER", "selectionValue": 1468, "entrantId": 3012593}, {"id": "2375400", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3019899}]}], "slots": [{"standing": {"entrant": {"id": 3019899, "name": "Mikeand1ke"}, "placement": 2}}, {"standing": {"entrant": {"id": 3012593, "name": "UnbearableSkill"}, "placement": 1}}]}, {"id": 20103937, "games": [{"id": 1826889, "setId": 20103937, "winnerId": 3014554, "selections": [{"id": "2375709", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3014554}, {"id": "2375710", "selectionType": "CHARACTER", "selectionValue": 1462, "entrantId": 3001764}]}, {"id": 1826897, "setId": 20103937, "winnerId": 3014554, "selections": [{"id": "2375716", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3014554}, {"id": "2375717", "selectionType": "CHARACTER", "selectionValue": 1462, "entrantId": 3001764}]}], "slots": [{"standing": {"entrant": {"id": 3001764, "name": "GxG | OD_Fullauto"}, "placement": 2}}, {"standing": {"entrant": {"id": 3014554, "name": "Kevoxreborn"}, "placement": 1}}]}, {"id": 20104192, "games": [{"id": 1825933, "setId": 20104192, "winnerId": 3006071, "selections": [{"id": "2374253", "selectionType": "CHARACTER", "selectionValue": 1470, "entrantId": 2998135}, {"id": "2374254", "selectionType": "CHARACTER", "selectionValue": 1457, "entrantId": 3006071}]}, {"id": 1825969, "setId": 20104192, "winnerId": 3006071, "selections": [{"id": "2374311", "selectionType": "CHARACTER", "selectionValue": 1457, "entrantId": 3006071}, {"id": "2374312", "selectionType": "CHARACTER", "selectionValue": 1470, "entrantId": 2998135}]}], "slots": [{"standing": {"entrant": {"id": 3006071, "name": "Nubcakes"}, "placement": 1}}, {"standing": {"entrant": {"id": 2998135, "name": "ParsaHp"}, "placement": 2}}]}, {"id": 20104383, "games": [{"id": 1825841, "setId": 20104383, "winnerId": 3014862, "selections": [{"id": "2374104", "selectionType": "CHARACTER", "selectionValue": 1465, "entrantId": 3014862}, {"id": "2374105", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 2997807}]}, {"id": 1825849, "setId": 20104383, "winnerId": 2997807, "selections": [{"id": "2374116", "selectionType": "CHARACTER", "selectionValue": 1465, "entrantId": 3014862}, {"id": "2374117", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 2997807}]}, {"id": 1825862, "setId": 20104383, "winnerId": 3014862, "selections": [{"id": "2374142", "selectionType": "CHARACTER", "selectionValue": 1456, "entrantId": 2997807}, {"id": "2374143", "selectionType": "CHARACTER", "selectionValue": 1465, "entrantId": 3014862}]}], "slots": [{"standing": {"entrant": {"id": 2997807, "name": "KILLSTREAK"}, "placement": 2}}, {"standing": {"entrant": {"id": 3014862, "name": "MHM_STAYHUNGRY20"}, "placement": 1}}]}, {"id": 20103429, "games": [{"id": 1826518, "setId": 20103429, "winnerId": 3008167, "selections": [{"id": "2375178", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3019899}, {"id": "2375179", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3008167}]}, {"id": 1826531, "setId": 20103429, "winnerId": 3008167, "selections": [{"id": "2375202", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3008167}, {"id": "2375203", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3019899}]}], "slots": [{"standing": {"entrant": {"id": 3008167, "name": "oD | Alcatraz"}, "placement": 1}}, {"standing": {"entrant": {"id": 3019899, "name": "Mikeand1ke"}, "placement": 2}}]}, {"id": 20104193, "games": [{"id": 1825942, "setId": 20104193, "winnerId": 3017462, "selections": [{"id": "2374271", "selectionType": "CHARACTER", "selectionValue": 1457, "entrantId": 3017462}, {"id": "2374272", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3019545}]}, {"id": 1825972, "setId": 20104193, "winnerId": 3017462, "selections": [{"id": "2374317", "selectionType": "CHARACTER", "selectionValue": 1457, "entrantId": 3017462}, {"id": "2374318", "selectionType": "CHARACTER", "selectionValue": 1461, "entrantId": 3019545}]}], "slots": [{"standing": {"entrant": {"id": 3017462, "name": "TSS | Deoxys"}, "placement": 1}}, {"standing": {"entrant": {"id": 3019545, "name": "UPR | Jolt"}, "placement": 2}}]}, {"id": 20104384, "games": null, "slots": [{"standing": {"entrant": {"id": 3014542, "name": "Reyes_fam"}, "placement": 2}}, {"standing": {"entrant": {"id": 3008845, "name": "ItsDillicious"}, "placement": 1}}]}, {"id": 20103236, "games": [{"id": 1826548, "setId": 20103236, "winnerId": 2999152, "selections": [{"id": "2375226", "selectionType": "CHARACTER", "selectionValue": 1475, "entrantId": 3007850}, {"id": "2375227", "selectionType": "CHARACTER", "selectionValue": 1472, "entrantId": 2999152}]}, {"id": 1826551, "setId": 20103236, "winnerId": 2999152, "selections": [{"id": "2375232", "selectionType": "CHARACTER", "selectionValue": 1472, "entrantId": 2999152}, {"id": "2375233", "selectionType": "CHARACTER", "selectionValue": 1469, "entrantId": 3007850}]}], "slots": [{"standing": {"entrant": {"id": 3007850, "name": "Royalty532"}, "placement": 2}}, {"standing": {"entrant": {"id": 2999152, "name": "IC | Titaniumtigerzz"}, "placement": 1}}]}]}}
+{
+  "id": 347685,
+  "slug": "tournament/kombat-cup-road-to-combo-breaker/event/kombat-cup",
+  "name": "Kombat Cup",
+  "startAt": 1556474400,
+  "sets": {
+    "pageInfo": {
+      "total": 758
+    },
+    "nodes": [
+      {
+        "id": 20103170,
+        "games": [
+          {
+            "id": 1826488,
+            "setId": 20103170,
+            "winnerId": 3012856,
+            "selections": [
+              {
+                "id": "2375136",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1468,
+                "entrantId": 3005785
+              },
+              {
+                "id": "2375137",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1469,
+                "entrantId": 3012856
+              }
+            ]
+          },
+          {
+            "id": 1826494,
+            "setId": 20103170,
+            "winnerId": 3012856,
+            "selections": [
+              {
+                "id": "2375146",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1469,
+                "entrantId": 3012856
+              },
+              {
+                "id": "2375147",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1468,
+                "entrantId": 3005785
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3005785,
+                "name": "Kickbykick"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3012856,
+                "name": "Aawtyy-"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104127,
+        "games": [
+          {
+            "id": 1826457,
+            "setId": 20104127,
+            "winnerId": 3014320,
+            "selections": [
+              {
+                "id": "2375087",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 2998028
+              },
+              {
+                "id": "2375088",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3014320
+              }
+            ]
+          },
+          {
+            "id": 1826472,
+            "setId": 20104127,
+            "winnerId": 3014320,
+            "selections": [
+              {
+                "id": "2375111",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3014320
+              },
+              {
+                "id": "2375112",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 2998028
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3014320,
+                "name": "DF | Grr"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 2998028,
+                "name": "LeMarrine"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104320,
+        "games": [
+          {
+            "id": 1826459,
+            "setId": 20104320,
+            "winnerId": 3020629,
+            "selections": [
+              {
+                "id": "2375091",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3019545
+              },
+              {
+                "id": "2375092",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1457,
+                "entrantId": 3020629
+              }
+            ]
+          },
+          {
+            "id": 1826470,
+            "setId": 20104320,
+            "winnerId": 3020629,
+            "selections": [
+              {
+                "id": "2375107",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1477,
+                "entrantId": 3020629
+              },
+              {
+                "id": "2375108",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1457,
+                "entrantId": 3020629
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3019545,
+                "name": "UPR | Jolt"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3020629,
+                "name": "Kinetic_Predator"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103363,
+        "games": [
+          {
+            "id": 1826640,
+            "setId": 20103363,
+            "winnerId": 3007349,
+            "selections": [
+              {
+                "id": "2375355",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1469,
+                "entrantId": 3007349
+              },
+              {
+                "id": "2375356",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3007850
+              }
+            ]
+          },
+          {
+            "id": 1826644,
+            "setId": 20103363,
+            "winnerId": 3007349,
+            "selections": [
+              {
+                "id": "2375363",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1469,
+                "entrantId": 3007349
+              },
+              {
+                "id": "2375364",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3007850
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3007850,
+                "name": "Royalty532"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3007349,
+                "name": "SiK | Cam is black"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103747,
+        "games": [
+          {
+            "id": 1826583,
+            "setId": 20103747,
+            "winnerId": 3019604,
+            "selections": [
+              {
+                "id": "2375274",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1463,
+                "entrantId": 2997941
+              },
+              {
+                "id": "2375275",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1463,
+                "entrantId": 3019604
+              }
+            ]
+          },
+          {
+            "id": 1826606,
+            "setId": 20103747,
+            "winnerId": 3019604,
+            "selections": [
+              {
+                "id": "2375308",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1463,
+                "entrantId": 3019604
+              },
+              {
+                "id": "2375309",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1463,
+                "entrantId": 2997941
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3019604,
+                "name": "kiLLtron"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 2997941,
+                "name": "moulu"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103172,
+        "games": [
+          {
+            "id": 1826641,
+            "setId": 20103172,
+            "winnerId": 3012856,
+            "selections": [
+              {
+                "id": "2375357",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1469,
+                "entrantId": 3012856
+              },
+              {
+                "id": "2375358",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1457,
+                "entrantId": 3001938
+              }
+            ]
+          },
+          {
+            "id": 1826658,
+            "setId": 20103172,
+            "winnerId": 3012856,
+            "selections": [
+              {
+                "id": "2375385",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1469,
+                "entrantId": 3012856
+              },
+              {
+                "id": "2375386",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1457,
+                "entrantId": 3001938
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3001938,
+                "name": "Fierce"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3012856,
+                "name": "Aawtyy-"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103746,
+        "games": null,
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3020013,
+                "name": "bc | HoneyBee"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3016612,
+                "name": "PG | Hayatei"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104128,
+        "games": [
+          {
+            "id": 1827097,
+            "setId": 20104128,
+            "winnerId": 3000307,
+            "selections": [
+              {
+                "id": "2376030",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3012253
+              },
+              {
+                "id": "2376031",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1472,
+                "entrantId": 3000307
+              }
+            ]
+          },
+          {
+            "id": 1827104,
+            "setId": 20104128,
+            "winnerId": 3000307,
+            "selections": [
+              {
+                "id": "2376038",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1472,
+                "entrantId": 3000307
+              },
+              {
+                "id": "2376039",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3012253
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3000307,
+                "name": "ChernyyVolkFGC"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3012253,
+                "name": "CrimsonWolf"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104129,
+        "games": [
+          {
+            "id": 1826577,
+            "setId": 20104129,
+            "winnerId": 3014320,
+            "selections": [
+              {
+                "id": "2375268",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3014320
+              },
+              {
+                "id": "2375269",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 3019521
+              }
+            ]
+          },
+          {
+            "id": 1826585,
+            "setId": 20104129,
+            "winnerId": 3014320,
+            "selections": [
+              {
+                "id": "2375276",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3014320
+              },
+              {
+                "id": "2375277",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 3019521
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3019521,
+                "name": "hendakid"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3014320,
+                "name": "DF | Grr"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104511,
+        "games": [
+          {
+            "id": 1826378,
+            "setId": 20104511,
+            "winnerId": 3018740,
+            "selections": [
+              {
+                "id": "2374985",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1477,
+                "entrantId": 3018740
+              },
+              {
+                "id": "2374986",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1472,
+                "entrantId": 3014542
+              }
+            ]
+          },
+          {
+            "id": 1826381,
+            "setId": 20104511,
+            "winnerId": 3018740,
+            "selections": [
+              {
+                "id": "2374991",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1477,
+                "entrantId": 3018740
+              },
+              {
+                "id": "2374992",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1472,
+                "entrantId": 3014542
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3014542,
+                "name": "Reyes_fam"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3018740,
+                "name": "Stabs"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103171,
+        "games": null,
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3015213,
+                "name": "Brownfelow"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3019252,
+                "name": "SiK__Killadilla"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104319,
+        "games": [
+          {
+            "id": 1826562,
+            "setId": 20104319,
+            "winnerId": 3009094,
+            "selections": [
+              {
+                "id": "2375252",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1470,
+                "entrantId": 2998135
+              },
+              {
+                "id": "2375253",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3009094
+              }
+            ]
+          },
+          {
+            "id": 1826593,
+            "setId": 20104319,
+            "winnerId": 2998135,
+            "selections": [
+              {
+                "id": "2375288",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3009094
+              },
+              {
+                "id": "2375289",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1470,
+                "entrantId": 2998135
+              }
+            ]
+          },
+          {
+            "id": 1826596,
+            "setId": 20104319,
+            "winnerId": 2998135,
+            "selections": [
+              {
+                "id": "2375294",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1470,
+                "entrantId": 2998135
+              },
+              {
+                "id": "2375295",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3009094
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 2998135,
+                "name": "ParsaHp"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3009094,
+                "name": "BSL | Four Loko"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 1,
+                  "displayValue": "1"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103364,
+        "games": null,
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3018694,
+                "name": "UPR | Nova"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": -1,
+                  "displayValue": "-1"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3013538,
+                "name": "Station"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103938,
+        "games": [
+          {
+            "id": 1826911,
+            "setId": 20103938,
+            "winnerId": 3020208,
+            "selections": [
+              {
+                "id": "2375741",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 3019594
+              },
+              {
+                "id": "2375742",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3020208
+              }
+            ]
+          },
+          {
+            "id": 1826914,
+            "setId": 20103938,
+            "winnerId": 3019594,
+            "selections": [
+              {
+                "id": "2375747",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3020208
+              },
+              {
+                "id": "2375748",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 3019594
+              }
+            ]
+          },
+          {
+            "id": 1826917,
+            "setId": 20103938,
+            "winnerId": 3020208,
+            "selections": [
+              {
+                "id": "2375753",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 3019594
+              },
+              {
+                "id": "2375754",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3020208
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3020208,
+                "name": "LaLLorona1001"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3019594,
+                "name": "Bdon"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 1,
+                  "displayValue": "1"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104510,
+        "games": [
+          {
+            "id": 1826509,
+            "setId": 20104510,
+            "winnerId": 2997807,
+            "selections": [
+              {
+                "id": "2375170",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 2997807
+              },
+              {
+                "id": "2375171",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3001692
+              }
+            ]
+          },
+          {
+            "id": 1826559,
+            "setId": 20104510,
+            "winnerId": 2997807,
+            "selections": [
+              {
+                "id": "2375246",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 2997807
+              },
+              {
+                "id": "2375247",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3001692
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 2997807,
+                "name": "KILLSTREAK"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3001692,
+                "name": "Tactaziumv"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103555,
+        "games": [
+          {
+            "id": 1826757,
+            "setId": 20103555,
+            "winnerId": 2997837,
+            "selections": [
+              {
+                "id": "2375511",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1458,
+                "entrantId": 2997837
+              },
+              {
+                "id": "2375512",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1470,
+                "entrantId": 3015946
+              }
+            ]
+          },
+          {
+            "id": 1826761,
+            "setId": 20103555,
+            "winnerId": 2997837,
+            "selections": [
+              {
+                "id": "2375515",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1458,
+                "entrantId": 2997837
+              },
+              {
+                "id": "2375516",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1470,
+                "entrantId": 3015946
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 2997837,
+                "name": "Jer"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3015946,
+                "name": "Crescent | DevilTrigger"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103556,
+        "games": [
+          {
+            "id": 1826655,
+            "setId": 20103556,
+            "winnerId": 3012593,
+            "selections": [
+              {
+                "id": "2375381",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1468,
+                "entrantId": 3012593
+              },
+              {
+                "id": "2375382",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3019899
+              }
+            ]
+          },
+          {
+            "id": 1826665,
+            "setId": 20103556,
+            "winnerId": 3012593,
+            "selections": [
+              {
+                "id": "2375399",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1468,
+                "entrantId": 3012593
+              },
+              {
+                "id": "2375400",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3019899
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3019899,
+                "name": "Mikeand1ke"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3012593,
+                "name": "UnbearableSkill"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103937,
+        "games": [
+          {
+            "id": 1826889,
+            "setId": 20103937,
+            "winnerId": 3014554,
+            "selections": [
+              {
+                "id": "2375709",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3014554
+              },
+              {
+                "id": "2375710",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1462,
+                "entrantId": 3001764
+              }
+            ]
+          },
+          {
+            "id": 1826897,
+            "setId": 20103937,
+            "winnerId": 3014554,
+            "selections": [
+              {
+                "id": "2375716",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3014554
+              },
+              {
+                "id": "2375717",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1462,
+                "entrantId": 3001764
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3001764,
+                "name": "GxG | OD_Fullauto"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3014554,
+                "name": "Kevoxreborn"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104192,
+        "games": [
+          {
+            "id": 1825933,
+            "setId": 20104192,
+            "winnerId": 3006071,
+            "selections": [
+              {
+                "id": "2374253",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1470,
+                "entrantId": 2998135
+              },
+              {
+                "id": "2374254",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1457,
+                "entrantId": 3006071
+              }
+            ]
+          },
+          {
+            "id": 1825969,
+            "setId": 20104192,
+            "winnerId": 3006071,
+            "selections": [
+              {
+                "id": "2374311",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1457,
+                "entrantId": 3006071
+              },
+              {
+                "id": "2374312",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1470,
+                "entrantId": 2998135
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3006071,
+                "name": "Nubcakes"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 2998135,
+                "name": "ParsaHp"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104383,
+        "games": [
+          {
+            "id": 1825841,
+            "setId": 20104383,
+            "winnerId": 3014862,
+            "selections": [
+              {
+                "id": "2374104",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1465,
+                "entrantId": 3014862
+              },
+              {
+                "id": "2374105",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 2997807
+              }
+            ]
+          },
+          {
+            "id": 1825849,
+            "setId": 20104383,
+            "winnerId": 2997807,
+            "selections": [
+              {
+                "id": "2374116",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1465,
+                "entrantId": 3014862
+              },
+              {
+                "id": "2374117",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 2997807
+              }
+            ]
+          },
+          {
+            "id": 1825862,
+            "setId": 20104383,
+            "winnerId": 3014862,
+            "selections": [
+              {
+                "id": "2374142",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1456,
+                "entrantId": 2997807
+              },
+              {
+                "id": "2374143",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1465,
+                "entrantId": 3014862
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 2997807,
+                "name": "KILLSTREAK"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 1,
+                  "displayValue": "1"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3014862,
+                "name": "MHM_STAYHUNGRY20"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103429,
+        "games": [
+          {
+            "id": 1826518,
+            "setId": 20103429,
+            "winnerId": 3008167,
+            "selections": [
+              {
+                "id": "2375178",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3019899
+              },
+              {
+                "id": "2375179",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3008167
+              }
+            ]
+          },
+          {
+            "id": 1826531,
+            "setId": 20103429,
+            "winnerId": 3008167,
+            "selections": [
+              {
+                "id": "2375202",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3008167
+              },
+              {
+                "id": "2375203",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3019899
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3008167,
+                "name": "oD | Alcatraz"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3019899,
+                "name": "Mikeand1ke"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104193,
+        "games": [
+          {
+            "id": 1825942,
+            "setId": 20104193,
+            "winnerId": 3017462,
+            "selections": [
+              {
+                "id": "2374271",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1457,
+                "entrantId": 3017462
+              },
+              {
+                "id": "2374272",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3019545
+              }
+            ]
+          },
+          {
+            "id": 1825972,
+            "setId": 20104193,
+            "winnerId": 3017462,
+            "selections": [
+              {
+                "id": "2374317",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1457,
+                "entrantId": 3017462
+              },
+              {
+                "id": "2374318",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3019545
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3017462,
+                "name": "TSS | Deoxys"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3019545,
+                "name": "UPR | Jolt"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20104384,
+        "games": null,
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3014542,
+                "name": "Reyes_fam"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": -1,
+                  "displayValue": "-1"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3008845,
+                "name": "ItsDillicious"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103236,
+        "games": [
+          {
+            "id": 1826548,
+            "setId": 20103236,
+            "winnerId": 2999152,
+            "selections": [
+              {
+                "id": "2375226",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1475,
+                "entrantId": 3007850
+              },
+              {
+                "id": "2375227",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1472,
+                "entrantId": 2999152
+              }
+            ]
+          },
+          {
+            "id": 1826551,
+            "setId": 20103236,
+            "winnerId": 2999152,
+            "selections": [
+              {
+                "id": "2375232",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1472,
+                "entrantId": 2999152
+              },
+              {
+                "id": "2375233",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1469,
+                "entrantId": 3007850
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3007850,
+                "name": "Royalty532"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 2999152,
+                "name": "IC | Titaniumtigerzz"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 20103044,
+        "games": [
+          {
+            "id": 1826229,
+            "setId": 20103044,
+            "winnerId": 3014509,
+            "selections": [
+              {
+                "id": "2374729",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3015213
+              },
+              {
+                "id": "2374730",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1472,
+                "entrantId": 3014509
+              }
+            ]
+          },
+          {
+            "id": 1826235,
+            "setId": 20103044,
+            "winnerId": 3014509,
+            "selections": [
+              {
+                "id": "2374741",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1472,
+                "entrantId": 3014509
+              },
+              {
+                "id": "2374742",
+                "selectionType": "CHARACTER",
+                "selectionValue": 1461,
+                "entrantId": 3015213
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "standing": {
+              "entrant": {
+                "id": 3014509,
+                "name": "END | Scar"
+              },
+              "placement": 1,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 2,
+                  "displayValue": "2"
+                }
+              }
+            }
+          },
+          {
+            "standing": {
+              "entrant": {
+                "id": 3015213,
+                "name": "Brownfelow"
+              },
+              "placement": 2,
+              "stats": {
+                "score": {
+                  "label": "Score",
+                  "value": 0,
+                  "displayValue": "0"
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
