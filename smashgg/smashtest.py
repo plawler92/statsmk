@@ -52,6 +52,7 @@ def get_page_of_sets(eventSlug, page, perPage):
 		      } 
 		      nodes{ 
 		        id 
+						fullRoundText
 		        games{
 		          id
 		          setId

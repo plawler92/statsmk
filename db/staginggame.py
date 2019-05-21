@@ -10,6 +10,7 @@ class StagingGame(Base):
 	eventname = Column(String)
 	eventdate = Column(Integer)
 	setid = Column(Integer)
+	setgametype = Column(String)
 	gameid = Column(Integer)
 	winnerid = Column(Integer)
 	winnername = Column(String)

@@ -6,6 +6,9 @@ from db.staginggame import StagingGame as Game
 from db.db import session
 import json
 
+kombatkup = "tournament/kombat-cup-road-to-combo-breaker/event/kombat-cup"
+summit = "tournament/summit-of-time/event/mortal-kombat-11"
+
 def get_games(eventSlug, page, perPage):
   data = smash.get_page_of_sets(eventSlug, page, perPage)
 
@@ -34,6 +37,7 @@ def get_games(eventSlug, page, perPage):
         g.eventname = e.name
         g.eventdate = e.startAt #probably convert this to a date here
         g.setid = setid
+        g.setgametype = game['fullRoundText']
         g.gameid = game['id']
         g.winnerid = game['winnerId']
         g.winnername = p1name if g.winnerid == p1id else p2name
@@ -84,11 +88,11 @@ def populatejson():
       data = write_to_file(smash.eventSlug, i, 25)
       json.dump(data, f)
 
-def populate_aws(start, end, pageSize):
+def populate_aws(eventSlug, start, end, pageSize):
   games = []
   for i in range(start, end):
     try:
-      games.extend(get_games(smash.eventSlug, i, pageSize))
+      games.extend(get_games(eventSlug, i, pageSize))
     except Exception as e:
       print(e)
 
@@ -97,5 +101,5 @@ def populate_aws(start, end, pageSize):
   session.commit()
 
 if __name__ == "__main__":
-    populate_aws(1, 40, 25)
+    populate_aws(summit, 1, 40, 25)
 
